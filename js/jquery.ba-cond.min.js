@@ -1,0 +1,1 @@
+!function(n){n.fn.cond=function(){for(var t,i,c,l,o=arguments,r=0;!i&&r<o.length;)i=o[r++],c=o[r++],i=n.isFunction(i)?i.call(this):i,l=c?i?c.call(this,i):t:i;return l!==t?l:this}}(jQuery);

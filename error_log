@@ -1,0 +1,224 @@
+[30-Oct-2017 14:37:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wasbenzt_vssutrobotics.in'@'localhost' (using password: NO) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 14:37:10 Etc/GMT] PHP Notice:  Undefined index: choice in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 11
+[30-Oct-2017 14:37:10 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 23
+[30-Oct-2017 14:43:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'wasbenzt_vssutrobotics.in'@'localhost' (using password: NO) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 14:43:15 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 24
+[30-Oct-2017 14:46:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 14:46:39 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 24
+[30-Oct-2017 14:52:59 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 14:52:59 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 35
+[30-Oct-2017 14:56:26 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://103.53.43.114:2082/' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 14:56:26 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 35
+[30-Oct-2017 14:56:49 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://103.53.43.114:2082/' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 14:56:49 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 35
+[30-Oct-2017 15:02:42 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'http://103.53.43.114:2082/login' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 15:02:42 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 35
+[30-Oct-2017 15:17:50 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 15:17:50 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 35
+[30-Oct-2017 15:23:37 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 15:23:37 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 16
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Notice:  Undefined index: f_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 9
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Notice:  Undefined index: l_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 10
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Notice:  Undefined index: choice in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 11
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Notice:  Undefined index: e_mail in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 12
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Notice:  Undefined index: pass in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 13
+[30-Oct-2017 15:23:51 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 16
+[30-Oct-2017 15:26:43 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 15:26:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 16
+[30-Oct-2017 15:26:43 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 35
+[30-Oct-2017 15:31:40 Etc/GMT] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 5
+[30-Oct-2017 15:31:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 16
+[30-Oct-2017 15:31:40 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 32
+[30-Oct-2017 15:31:40 Etc/GMT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 36
+[30-Oct-2017 16:18:41 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 16:18:41 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 16:19:26 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 16:19:26 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 16:21:49 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 16:21:49 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 16:53:58 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 16:53:58 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 17:01:59 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 17:01:59 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 17:10:05 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 17:10:05 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 17:10:08 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[30-Oct-2017 17:12:04 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[30-Oct-2017 17:12:52 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 8
+[30-Oct-2017 17:12:52 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 17:18:50 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 17:18:50 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 11
+[30-Oct-2017 17:21:12 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 17:21:12 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 11
+[30-Oct-2017 17:21:12 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[30-Oct-2017 17:28:18 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[30-Oct-2017 17:28:59 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 17:28:59 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 11
+[30-Oct-2017 17:31:53 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 17:31:53 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 11
+[30-Oct-2017 17:39:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 17:40:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 17:40:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:01:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:03:46 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:03:46 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 11
+[30-Oct-2017 18:14:25 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 18:14:25 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:14:25 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 29
+[30-Oct-2017 18:25:11 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 18:25:11 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:26:36 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 18:26:36 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:33:03 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 18:33:03 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 18:33:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 28
+[30-Oct-2017 18:47:32 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 9
+[30-Oct-2017 18:47:32 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 10
+[30-Oct-2017 19:11:34 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[31-Oct-2017 10:09:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 15
+[31-Oct-2017 10:17:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 15
+[31-Oct-2017 13:17:38 Etc/GMT] PHP Notice:  Undefined variable: db in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 15
+[31-Oct-2017 13:17:38 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 15
+[31-Oct-2017 13:17:38 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 16
+[31-Oct-2017 13:17:38 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 19
+[31-Oct-2017 13:58:54 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 16
+[31-Oct-2017 13:58:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 19
+[31-Oct-2017 14:01:46 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[31-Oct-2017 14:02:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 16
+[31-Oct-2017 14:02:20 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 19
+[31-Oct-2017 14:23:26 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 16
+[31-Oct-2017 14:23:26 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 19
+[31-Oct-2017 14:23:26 Etc/GMT] PHP Fatal error:  Call to undefined function session_register() in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 24
+[31-Oct-2017 15:08:44 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 16
+[31-Oct-2017 15:08:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 19
+[31-Oct-2017 15:08:44 Etc/GMT] PHP Fatal error:  Call to undefined function session_register() in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 24
+[31-Oct-2017 15:35:21 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 5
+[31-Oct-2017 15:35:21 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[31-Oct-2017 15:35:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[31-Oct-2017 15:35:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[31-Oct-2017 15:35:31 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 5
+[31-Oct-2017 15:35:31 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[31-Oct-2017 15:35:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[31-Oct-2017 15:35:31 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[31-Oct-2017 15:36:57 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 4
+[31-Oct-2017 15:36:57 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 5
+[31-Oct-2017 15:36:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 12
+[31-Oct-2017 15:36:57 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 03:26:48 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 4
+[01-Nov-2017 03:26:48 Etc/GMT] PHP Notice:  Undefined variable: POST in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 5
+[01-Nov-2017 03:26:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 12
+[01-Nov-2017 03:26:48 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:42:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 12
+[01-Nov-2017 14:42:17 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:44:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:44:21 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 14:45:39 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:45:39 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 14:49:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:49:16 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 14:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:49:29 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 14:50:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 14:50:44 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 14:52:36 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 14:52:36 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 15
+[01-Nov-2017 14:55:22 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[01-Nov-2017 14:59:21 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[01-Nov-2017 15:02:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 13
+[01-Nov-2017 15:02:14 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 14
+[01-Nov-2017 15:07:44 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[01-Nov-2017 15:27:02 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[01-Nov-2017 15:27:14 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[01-Nov-2017 15:30:37 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 216
+[01-Nov-2017 15:35:13 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[01-Nov-2017 15:40:51 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 219
+[01-Nov-2017 15:44:44 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[01-Nov-2017 15:45:13 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 15:46:11 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 15:46:25 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 15:46:39 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 15:46:56 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 15:56:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'name' (T_STRING), expecting ',' or ';' in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 21
+[01-Nov-2017 16:03:29 Etc/GMT] PHP Notice:  Undefined index: f_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 9
+[01-Nov-2017 16:03:29 Etc/GMT] PHP Notice:  Undefined index: l_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 10
+[01-Nov-2017 16:03:29 Etc/GMT] PHP Notice:  Undefined index: choice in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 11
+[01-Nov-2017 16:03:29 Etc/GMT] PHP Notice:  Undefined index: e_mail in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 12
+[01-Nov-2017 16:03:29 Etc/GMT] PHP Notice:  Undefined index: pass in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 13
+[01-Nov-2017 16:04:27 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 16:04:46 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 16:05:55 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 16:06:15 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 16:07:55 Etc/GMT] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 19
+[01-Nov-2017 16:09:57 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[01-Nov-2017 16:10:06 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[01-Nov-2017 18:02:33 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[01-Nov-2017 18:37:43 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[01-Nov-2017 18:49:44 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[02-Nov-2017 12:06:25 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[02-Nov-2017 12:07:36 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[02-Nov-2017 14:18:14 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[02-Nov-2017 14:18:37 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[02-Nov-2017 14:20:34 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[02-Nov-2017 14:25:59 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[02-Nov-2017 14:26:25 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[02-Nov-2017 14:35:34 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[02-Nov-2017 17:49:50 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[02-Nov-2017 17:56:49 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[03-Nov-2017 10:34:21 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/index1.php on line 220
+[04-Nov-2017 06:22:49 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 07:24:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 21
+[05-Nov-2017 07:26:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 21
+[05-Nov-2017 07:28:53 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 21
+[05-Nov-2017 09:45:29 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[05-Nov-2017 09:45:29 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
+[05-Nov-2017 09:50:43 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 09:56:14 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 09:58:20 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 10:03:24 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 14:08:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/wasbenzt/public_html/vssutrobotics.in/index.php on line 7
+[05-Nov-2017 14:08:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/wasbenzt/public_html/vssutrobotics.in/index.php on line 7
+[05-Nov-2017 14:08:23 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/wasbenzt/public_html/vssutrobotics.in/index.php on line 7
+[05-Nov-2017 14:11:31 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 14:13:20 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 14:23:38 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 14:23:43 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 14:26:18 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[05-Nov-2017 14:29:21 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[07-Nov-2017 11:11:16 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[07-Nov-2017 11:11:16 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
+[08-Nov-2017 14:25:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wasbenzt/public_html/vssutrobotics.in/index.php on line 12
+[08-Nov-2017 14:25:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wasbenzt/public_html/vssutrobotics.in/index.php on line 12
+[08-Nov-2017 14:26:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/wasbenzt/public_html/vssutrobotics.in/index.php on line 12
+[08-Nov-2017 14:39:23 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[08-Nov-2017 14:55:29 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[08-Nov-2017 14:55:52 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[08-Nov-2017 15:19:10 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wasbenzt/public_html/vssutrobotics.in/logout.php on line 2
+[11-Dec-2017 12:40:02 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[11-Dec-2017 12:40:02 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
+[12-Dec-2017 19:59:28 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[12-Dec-2017 19:59:28 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
+[23-Dec-2017 16:38:58 Etc/GMT] PHP Notice:  Undefined index: f_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 9
+[23-Dec-2017 16:38:58 Etc/GMT] PHP Notice:  Undefined index: l_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 10
+[23-Dec-2017 16:38:58 Etc/GMT] PHP Notice:  Undefined index: choice in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 11
+[23-Dec-2017 16:38:58 Etc/GMT] PHP Notice:  Undefined index: e_mail in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 12
+[23-Dec-2017 16:38:58 Etc/GMT] PHP Notice:  Undefined index: pass in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 13
+[23-Dec-2017 16:38:59 Etc/GMT] PHP Notice:  Undefined index: f_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 9
+[23-Dec-2017 16:38:59 Etc/GMT] PHP Notice:  Undefined index: l_name in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 10
+[23-Dec-2017 16:38:59 Etc/GMT] PHP Notice:  Undefined index: choice in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 11
+[23-Dec-2017 16:38:59 Etc/GMT] PHP Notice:  Undefined index: e_mail in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 12
+[23-Dec-2017 16:38:59 Etc/GMT] PHP Notice:  Undefined index: pass in /home/wasbenzt/public_html/vssutrobotics.in/signup.php on line 13
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 9
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: email in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 10
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: subject in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 11
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: message in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 12
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: name in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 9
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: email in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 10
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: subject in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 11
+[23-Dec-2017 16:39:00 Etc/GMT] PHP Notice:  Undefined index: message in /home/wasbenzt/public_html/vssutrobotics.in/sendmail.php on line 12
+[23-Dec-2017 16:39:18 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[23-Dec-2017 16:39:18 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
+[23-Dec-2017 16:39:18 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[23-Dec-2017 16:39:18 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
+[18-Jan-2018 12:35:12 Etc/GMT] PHP Notice:  Undefined index: email1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 6
+[18-Jan-2018 12:35:12 Etc/GMT] PHP Notice:  Undefined index: pass1 in /home/wasbenzt/public_html/vssutrobotics.in/login.php on line 7
